@@ -1,0 +1,26 @@
+<html>
+<head>
+<title>
+link
+</title>
+<style type="text/CSS">
+.a
+{
+  border:2px;
+  height:auto;
+  width:auto;
+}
+.a:hover
+{
+  background-color:#cc3300;
+  color:#ffffff ;
+  text-decoration:none;
+  text-shadow:#336666 5px 5px 5px;
+  box-shadow:#758445 5px 5px 5px ;
+}
+</style>
+</head>
+<body>
+<div class="a"></div>
+</body>
+</html>
